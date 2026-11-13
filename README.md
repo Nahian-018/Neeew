@@ -1,11 +1,10 @@
-<div align="center">
+# My Workflow
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A comprehensive task and workflow management Android application built with Kotlin, Jetpack Compose, and Room Database. Organize projects, tasks, substeps, notes, and monitor productivity analytics.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Features
+- **Workflows & Projects**: Create, categorize, and track workflows (Work, Personal, Study, Health).
+- **Tasks & Substeps**: Manage tasks with priorities, status tracking, and subtask checklists.
+- **Notes & Journal**: Add quick notes and updates to any workflow.
+- **Productivity Analytics**: Real-time progress indicators, status breakdowns, and completion statistics.
+- **Modern Material 3 UI**: Dynamic color support, polished layouts, and edge-to-edge design.
